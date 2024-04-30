@@ -12,6 +12,7 @@ export const ChatData = [
             { id: 1, text: 'Hey!', sender: 'user2' },
             { id: 2, text: "I'm good, thanks.", sender: 'user2' },
             { id: 3, text: "I am just chilling.", sender: 'user2' },
+        
             // { id: 4, text: "I'm good, thanks.", sender: 'user2' }
         ]
     }
